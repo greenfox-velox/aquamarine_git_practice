@@ -1,5 +1,5 @@
 function cheer(first, second){
-  console.log(first + second);
+  console.log('Cheer for the' first + second);
 
 };
 
