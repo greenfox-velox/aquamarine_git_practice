@@ -1,5 +1,5 @@
-function cheer(name){
-  console.log('Welcome, ' + name + '!');
+function cheer(param){
+  console.log(param);
 }
 
 greet('Peet');
