@@ -4,4 +4,4 @@ function count (age) {
   console.log(age);
 }
 
-count(-1);
+count(12);
