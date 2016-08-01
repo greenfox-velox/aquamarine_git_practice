@@ -1,7 +1,7 @@
 'use strict';
 
 function count (age) {
-  console.log(age);
+  console.log('Counting the countless ' + age);
 }
 
 count(12);
