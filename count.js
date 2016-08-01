@@ -1,7 +1,7 @@
 'use strict';
 
-function count () {
-  console.log(-1);
+function count (age) {
+  console.log(age);
 }
 
-count();
+count(-1);
