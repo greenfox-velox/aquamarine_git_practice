@@ -1,5 +1,5 @@
 function cheer(name){
-  console.log('Welcome, ' + name + '!');
+  console.log('javscript');
 }
 
-greet('Peet');
+greet();
