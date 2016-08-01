@@ -1,7 +1,7 @@
 'use strict';
 
-function count (age) {
-  console.log(age);
+function count (buli, muli) {
+  console.log(buli + muli);
 }
 
-count(12);
+count(12, 13);
