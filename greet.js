@@ -1,7 +1,7 @@
 'use strict';
 
-function greet (name) {
-  console.log(name);
+function greet () {
+  console.log('Greetings!');
 }
 
 greet('Sandor');
