@@ -4,4 +4,4 @@ function greet () {
   console.log('Greetings!');
 }
 
-greet('Sandor');
+greet();

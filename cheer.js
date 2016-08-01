@@ -1,6 +1,6 @@
-function cheer(){
-  console.log('Hello');
+function cheer(first, second){
+  console.log(first + second);
 
 };
 
-cheer();
+cheer(banon, kacsa);
